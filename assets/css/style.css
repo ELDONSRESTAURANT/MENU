@@ -68,7 +68,7 @@ section {
 .section-title {
   text-align: center;
   padding-bottom: 15px;
-  background: url("assets/img/donslogo-removebg-preview.png");
+  background: url("./img/donslogo-removebg-preview.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
