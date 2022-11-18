@@ -67,10 +67,7 @@ section {
 
 .section-title {
   text-align: center;
-  padding-bottom: 15px;
-  background: url("./img/donslogo-removebg-preview.png");
-  background-repeat: no-repeat;
-  background-size: cover;
+  padding-bottom: 20px;
 }
 
 @media (min-width: 1024px) {
